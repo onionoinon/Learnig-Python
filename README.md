@@ -9,21 +9,31 @@ This is a repository containing a collection of small programs that I have writt
   - Game1
   - Game2
   - Game3
+- List
+  - List1
 
 ## **Notes**
-**Notes1: **
+- Notes1: 
 This file contains some very brief notes written about Data types in Python, Loops, Functions and the oops concept.
 
 ## **Game**  
 
-**Game1: **  
+- Game1:  
 This file contains a stone/paper/scissor game written using python.    
 
-**Game2: **  
+- Game2:  
 This file contains the same game mentioned above, but is modified using a function.  
 
-**Game3: **  
+- Game3: 
 This file contains the same game mentioned above, but is modified using a class.  
+
+## **List**
+
+- List1:
+
+This file contains a program to find the second largest and second smallest number in a list in python.
+
+
 
 
 
