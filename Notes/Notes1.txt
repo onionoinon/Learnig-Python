@@ -1,0 +1,43 @@
+1. Data Types in python 
+
+There are several built-in data types in Python.
+
+Numbers: Numeric data types include integers, floating-point numbers, and complex numbers.
+Strings: Textual data types represented as a sequence of characters enclosed in single or double quotes.
+Booleans: Boolean data type represents truth values, which can be either True or False.
+Lists: An ordered collection of values, enclosed in square brackets, which can hold elements of different data types.
+Tuples: Similar to lists but immutable, meaning they cannot be modified once created.
+Sets: An unordered collection of unique elements, enclosed in curly braces.
+Dictionaries: A collection of key-value pairs, enclosed in curly braces, where each key maps to a corresponding value.
+None: Represents the absence of a value and is often used as a placeholder.
+
+These are the most commonly used data types in Python. Additionally, there are also user-defined data types like classes and objects.
+
+2. Loop and if condition 
+        
+Loops and conditional statements are used to control the flow of the program and to make decisions based on certain conditions. The most commonly used loop and conditional statements are the for loop, the while loop, and the if statement.
+
+The if statement allows you to execute a certain block of code only if a particular condition is true. Here is the basic syntax for the if statement:
+
+if condition:
+    # do something
+
+
+3. Python Functions 
+
+A function is a block of code that performs a specific task and can be reused throughout your code. The following syntax can be used to call a function in Python:
+
+def function_name(arguments):
+    # do something
+    return value
+
+4. Oops concept
+
+Object-oriented programming (OOP) is a programming paradigm that is based on the concept of objects. In Python, everything is an object, and you can use OOP to create your own classes and objects.
+
+The four main principles of OOP:
+
+Encapsulation: The idea of bundling data and methods that operate on that data within one unit, such as a class. 
+Inheritance: The ability of one class to inherit properties and methods from another class. This allows for code reuse and allows for more specialized classes to be created.
+Polymorphism: The ability of objects to take on many forms. 
+Abstraction: The idea of hiding implementation details and only showing the necessary information to the user.
